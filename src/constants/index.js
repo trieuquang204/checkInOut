@@ -1,0 +1,5 @@
+export const CHECK_IN = 'CHECK_IN'
+export const CHECK_OUT = 'CHECK_OUT'
+export const NOT_CHECKED_IN = 'NOT_CHECKED_IN'
+export const CHECKED_IN = 'CHECKED_IN'
+export const XAC_NHAN_CHECK_IN = 'XAC_NHAN_CHECK_IN'

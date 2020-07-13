@@ -1,0 +1,191 @@
+{
+	"tbl_check_in": {
+		"ykdrK0q9S0OgxOcRnAK4QSQF67q2": {
+			"user_id": "ykdrK0q9S0OgxOcRnAK4QSQF67q2",
+			"history": {
+				"-M7le3WHw-D-mIbI7XLj": {
+					"date": 1590538380000,
+					"checkin_img": "https://placeimg.com/140/140/any",
+					"checkout_img": "https://placeimg.com/140/140/any",
+					"checkinlog": {
+						"-M7maeBU4AIckrT7xtWM": {
+							"created": 1590538380000, 
+							"type": "XINPHEP",
+							"request": "DENMUON",
+							"note": "Xin đến muộn 8h40 ngày 27/05 vào lúc 7h13",
+							"datetime": 1590543600000   
+						},
+						"-M7lfKQMNuPkYQe-_hLJ": {
+							"created": 1590544200000,
+							"type": "XINPHEP",
+							"request": "XINNGHI",
+							"note": "Xin nghỉ phép ngày 27/05/2020 vào lúc 8h50",
+							"datetime": 1590512400000 
+						},
+						"-M7mr_Jk5nZVqgIr4jfB": {
+							"created": 1590544800000,
+							"datetime": 1590544800000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7maYlvoF0wAZmvbxoM": {
+							"created": 1590573600000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT",
+							"request": "VESOM",
+							"note": "Xin về sớm và check out lúc 17h00",
+							"datetime": 1590573600000
+						}
+					}
+				},
+				"-M7ldy7QWX0aIJAGWEIl": {
+					"date": 1590625800000,
+					"checkin_img": "https://placeimg.com/140/140/any",
+					"checkout_img": "https://placeimg.com/140/140/any",
+					"checkinlog": {
+						"-M7maeBU4AIckrT7xtWM": {
+							"created": 1590625800000,
+							"type": "XINPHEP",
+							"request": "DENMUON",
+							"note": "Xin đến muộn 8h35 ngày 28/05/2020 lúc 7h30",
+							"datetime": 1590629700000
+						},
+						"-M7mr_Jk5nZVqgIr4jfB": {
+							"created": 1590630060000,
+							"datetime": 1590630060000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7mgFvX4rUi8wzoZ5En": {
+							"created": 1589988363359,
+							"datetime": 1590662700000,
+							"images": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT"
+						}
+					}
+				},
+				"-M7hs30JuMUP0E6DFQF2": {
+					"date": 1590715800000,
+					"checkin_img": "https://placeimg.com/140/140/any",
+					"checkout_img": "https://placeimg.com/140/140/any",
+					"checkinlog": {
+						"-M7mr_Jk5nZVqgIr4jfB": {
+							"created": 1590715800000,
+							"datetime": 1590715800000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7mgFvX4rUi8wzoZ5En": {
+							"created": 1590749132000,
+							"datetime": 1590749132000,
+							"images": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT"
+						}
+					}
+				},
+				"-M7hs9xGSyGfzQyBZpwk": {
+					"date": 1590796692000,
+					"checkinlog": {
+						"-M7hsBl-Pk_qPuzdkO9V": {
+							"created": 1590796692000,
+							"type": "XINPHEP",
+							"request": "XINNGHI",
+							"note": "Xin nghỉ phép ngày 03/05/2020 vào lúc 6h58",
+							"datetime": 1590771600000
+						}
+					}
+				},
+				"-M7hsYPe1V4LJqexVEY0": {
+					"date": 1590888600000,
+					"checkin_img": "https://placeimg.com/140/140/any",
+					"checkout_img": "https://placeimg.com/140/140/any",
+					"checkinlog": {
+						"-M7mr_Jk5nZVqgIr4jfB": {
+							"created": 1590888600000,
+							"datetime": 1590888600000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7mgFvX4rUi8wzoZ5En": {
+							"created": 1590901200000,
+							"datetime": 1590901200000,
+							"images": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT"
+						},
+						"-M7hsb2Flo14s3AARPCL": {
+							"created": 1590905700000,
+							"datetime": 1590905700000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7ldvYDDUhJsXFTYHfS": {
+							"created": 1590921900000,
+							"datetime": 1590921900000,
+							"images": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT"
+						}
+					}
+				},
+				"-M7ldwnRt87ZplHKSimO": {
+					"date": 1590969600000,
+					"checkinlog": {
+						"-M7hsBl-Pk_qPuzdkO9V": {
+							"created": 1590969600000,
+							"type": "XINPHEP",
+							"request": "DENMUON",
+							"note": "Xin đến muộn 9h00 ngày 01/06/2020 vào lúc 7h00",
+							"datetime": 1590976800000
+						}
+					}
+				},
+				"-M7le3WHw-D-mIbI7XNj": {
+					"date": 1591660800000,
+					"checkin_img": "https://placeimg.com/140/140/any",
+					"checkout_img": "https://placeimg.com/140/140/any",
+					"checkinlog": {
+						
+						"-M7lfKQMNuPkYQe-_hLJ": {
+							"created": 1591669800000,
+							"type": "XINPHEP",
+							"request": "XINNGHI",
+							"note": "Xin nghỉ phép ngày 27/05/2020 vào lúc 8h50",
+							"datetime": 1591669800000 
+						},
+						"-M7mr_Jk5nZVqgIr4jfB": {
+							"created": 1591669800000,
+							"datetime": 1591669800000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKIN"
+						},
+						"-M7maeBU4AIckrT7xtWM": {
+							"created": 1591669800000, 
+							"type": "XINPHEP",
+							"request": "DENMUON",
+							"note": "Xin đến muộn 8h40 ngày 27/05 vào lúc 7h13",
+							"datetime": 1591669800000   
+						},
+						"-M7maYlvoF0wAZmvbxoM": {
+							"created": 1591704300000,
+							"image": "https://placeimg.com/140/140/any",
+							"type": "CHECKOUT",
+							"request": "VESOM",
+							"note": "Xin về sớm và check out lúc 17h00",
+							"datetime": 1591704300000
+						}
+					}
+				}
+			}
+		}
+	},
+	"tbl_user": {
+		"ykdrK0q9S0OgxOcRnAK4QSQF67q2": {
+			"dateofbirth": "31/12/1995",
+			"email": "yang.haepi@gmail.com",
+			"fullname": "Trần Bảo Tuấn",
+			"gender": 1,
+			"mobile": "0384822466",
+			"user_id": "ykdrK0q9S0OgxOcRnAK4QSQF67q2",
+			"avatar": "https://placeimg.com/140/140/any"
+		}
+	}
+}

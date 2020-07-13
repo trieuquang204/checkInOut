@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543306718980",
+    "firebase_url": "https://netfin-checkin.firebaseio.com",
+    "project_id": "netfin-checkin",
+    "storage_bucket": "netfin-checkin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543306718980:android:1f1a9ebfe6f3e7359dba51",
+        "android_client_info": {
+          "package_name": "com.checkinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543306718980-iaod14a7qmpnv22tc2b59675p6jcp72m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvw2ciI832lg3eKgae2peW4oy4oDZ6bPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543306718980-iaod14a7qmpnv22tc2b59675p6jcp72m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543306718980-kdg5fen2b6ai6k2bc5k6hh0mlru6d4q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netfinapp.CheckInApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
